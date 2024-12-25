@@ -1,3 +1,6 @@
 [submodule "tfd-nuxt-tailwind-boilerplate"]
 	path = tfd-nuxt-tailwind-boilerplate
 	url = https://github.com/Sameth1999/tfd-nuxt-tailwind-boilerplate.git
+[submodule "tfd-nest-boilerplate"]
+	path = tfd-nest-boilerplate
+	url = https://github.com/Sameth1999/tfd-nest-boilerplate.git
